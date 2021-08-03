@@ -9,8 +9,6 @@ Freelance junior front-end developer and graphic designer.
 
 # ❓ About me
 
-<img align="right" alt="CSS gif" width="220px" src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e478tkbsn7d1slamceom3qxbgzx42y4ul9zed6qiwek&rid=giphy.gif&ct=g" />
-
 - I'm currently working with JS (ES6+)
 - React enthisiast
 - Attention to details
@@ -18,7 +16,7 @@ Freelance junior front-end developer and graphic designer.
 
 # 👨🏻‍💻 My stack
 
-<img align="right" alt="Coding gif" width="300px" src="https://mograph.video/2HwFiEL" />
+<img align="right" alt="CSS gif" width="220px" src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e478tkbsn7d1slamceom3qxbgzx42y4ul9zed6qiwek&rid=giphy.gif&ct=g" />
 
 - HTML5
 - CSS3
