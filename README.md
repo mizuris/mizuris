@@ -1,20 +1,21 @@
 # 👋 Hi, I’m Peter!
 Freelance junior front-end developer and graphic designer.
 
-# 📥 Find me
+## 📥 Find me
 
 - [LinkedIn](https://www.linkedin.com/in/piotr-bątor/)
 - [Facebook](https://www.facebook.com/piotr.bator.33/)
 - [Portfolio](https://piotr-bator.pl/)
 
-# ❓ About me
+## ❓ About me
 
 - I'm currently working with JS (ES6+)
 - React enthisiast
 - Attention to details
 - Focused on gaining experience
+- Willing to learn new technologies
 
-# 👨🏻‍💻 My stack
+## 👨🏻‍💻 My stack
 
 <img align="right" alt="CSS gif" width="220px" src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e478tkbsn7d1slamceom3qxbgzx42y4ul9zed6qiwek&rid=giphy.gif&ct=g" />
 
@@ -32,7 +33,7 @@ Freelance junior front-end developer and graphic designer.
 - Styled-components
 - webpack
 
-# 👀 Graphic design tools
+## 👀 Graphic design tools
 
 - Figma
 - Adobe Illustrator
