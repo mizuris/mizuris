@@ -1,19 +1,46 @@
-👋 Hi, I’m Peter!
+# 👋 Hi, I’m Peter!
+Freelance junior front-end developer and graphic designer.
 
-I'm currently learning JavaScript with React. I take part in courses and I am studying on front-end related collage.
-I work as graphic designer, and I've started creating websites for clients, getting my first real experiance!
-It's been over a year since i started my first HTML & CSS course. My curiosity and willingness to learn made me understand these technologies:
+# 📥 Find me
+
+- [LinkedIn](https://www.linkedin.com/in/piotr-bątor/)
+- [Facebook](https://www.facebook.com/piotr.bator.33/)
+- [Portfolio](https://piotr-bator.pl/)
+
+# ❓ About me
+
+<img align="right" alt="CSS gif" width="220px" src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e478tkbsn7d1slamceom3qxbgzx42y4ul9zed6qiwek&rid=giphy.gif&ct=g" />
+
+- I'm currently working with JS (ES6+)
+- React enthisiast
+- Attention to details
+- Focused on gaining experience
+
+# 👨🏻‍💻 My stack
+
+<img align="right" alt="Coding gif" width="300px" src="https://mograph.video/2HwFiEL" />
 
 - HTML5
 - CSS3
 - SASS/SCSS
 - Bootstrap
 - Material UI
-- JavaScript 💞️
+- JavaScript 💞
 - React 💞️
 - Redux
 - Angular (basics)
 - TypeScript
+- Next.js
+- Styled-components
+- webpack
+
+# 👀 Graphic design tools
+
+- Figma
+- Adobe Illustrator
+- Affinity Designer
+- Affinity Photo
+- CorelDRAW
 
 I wish to expand my stack diving deeper into mentioned technolgies 💞️
 
